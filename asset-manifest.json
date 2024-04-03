@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.ec3d6032.css",
+    "main.js": "/My-Portfolio/static/js/main.6e8ba0c6.js",
+    "static/media/food lover.png": "/My-Portfolio/static/media/food lover.2a5743595b750fb5ed6f.png",
+    "static/media/movies.png": "/My-Portfolio/static/media/movies.016d3407855e00b45642.png",
+    "static/media/travel.png": "/My-Portfolio/static/media/travel.23fb0f71b479531435d5.png",
+    "static/media/islamic.png": "/My-Portfolio/static/media/islamic.db2103aa5516fa874adc.png",
+    "static/media/color-sharp.png": "/My-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/My-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/shopping.png": "/My-Portfolio/static/media/shopping.db33242a1c7ec16c5595.png",
+    "static/media/banner-bg.png": "/My-Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/shoppify.png": "/My-Portfolio/static/media/shoppify.b9add3c19e589f179ba3.png",
+    "static/media/header-img.svg": "/My-Portfolio/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/c++-removebg-preview.png": "/My-Portfolio/static/media/c++-removebg-preview.250ec2d10ad0840071f9.png",
+    "static/media/footer-bg.png": "/My-Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img copy.svg": "/My-Portfolio/static/media/contact-img copy.fc68318d26d304f81826a311dc535bb0.svg",
+    "static/media/revicons.eot": "/My-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/My-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/My-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/My-Portfolio/static/media/meter2.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter1.svg": "/My-Portfolio/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/meter3.svg": "/My-Portfolio/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
+    "static/media/logo.svg": "/My-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/whatsapp-ffffff.svg": "/My-Portfolio/static/media/whatsapp-ffffff.97212df2c808e12217204c7fa24ca7b1.svg",
+    "static/media/phone-call-svgrepo-com.svg": "/My-Portfolio/static/media/phone-call-svgrepo-com.a667ae7479c4bc6591099332dc4fb315.svg",
+    "static/media/mail-open-svgrepo-com.svg": "/My-Portfolio/static/media/mail-open-svgrepo-com.bb01d75b0c60dccb81f33aa2cd14b011.svg",
+    "static/media/telegram-svgrepo-com (2).svg": "/My-Portfolio/static/media/telegram-svgrepo-com (2).c996aafdde01bde2a9c209b3563d5fd4.svg",
+    "static/media/Github.svg": "/My-Portfolio/static/media/Github.541ef153125d0035070f7a8e95377dfe.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "static/media/nav-icon1.svg": "/My-Portfolio/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "main.ec3d6032.css.map": "/My-Portfolio/static/css/main.ec3d6032.css.map",
+    "main.6e8ba0c6.js.map": "/My-Portfolio/static/js/main.6e8ba0c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3d6032.css",
+    "static/js/main.6e8ba0c6.js"
+  ]
+}
